@@ -3,8 +3,10 @@
 # howtoshareyourdroneimageries 
 How to share your drone imageries. あなたのドローン空撮画像を共有する方法
 
-v0.9
+v0.91
 適宜更新していきます。
+(最終更新 2019/10/12T20:34JST)
+
 
 ## 標準仕様
 * 各種SfMツールでオルソモザイク処理を行う。
@@ -16,15 +18,16 @@ v0.9
 * 4GBを超える GeoTIFFの場合は BigTIFFタイプを優先
 
 
-## Google Drive
+## [Google Drive](https://www.google.co.jp/drive/apps.html)
 * GeoTIFFファイルをそのまま置いておく。
 * ファイルの共有設定を誰でも閲覧可能にする。
 
-## OpenAerialMap
+## [OpenAerialMap](https://openaerialmap.org)
 * Googleアカウントでログイン
 * アップロード画面で各種情報を入力後 Google Driveにアップロードした GeoTIFFファイルをリストから表示
+* 公開後データ閲覧は[ひなたGIS](https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html)と組み合わせてPermalink発行が便利
 
-## GitHub
+## [GitHub](https://github.com/)
 * 撮影データセットごとに公開リポジトリを立てる。
 * XYZタイルデータセットを GitHub Desktop ツールを用いてPush(アップロード)
 * リポジトリを GitHub Pages 設定にして、ホスティングする。
