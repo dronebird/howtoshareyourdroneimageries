@@ -7,6 +7,7 @@ v0.91
 適宜更新していきます。
 (最終更新 2019/10/12T20:34JST)
 
+質問などは[こちらのIssues](https://github.com/dronebird/howtoshareyourdroneimageries/issues)にお願いします！
 
 ## 標準仕様
 * 各種SfMツール(Pix4D,MetaShape,OpenDroneMap)でオルソモザイク処理を行う。
